@@ -49,14 +49,14 @@
       "deviceSignature": "SsqA2O8WPwP0XtzPl1LvqSC5DDy2Uq27dW9iwW4IljIbGZlu2FPRJ45l68/7P5WtNOR2s02dhGDpojbmCIH6Bw=="
     },
     "me": {
-      "id": "917561815983:11@s.whatsapp.net",
-      "verifiedName": "𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳",
-      "name": "𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳"
+      "id": "919968778724:11@s.whatsapp.net",
+      "verifiedName": "𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹",
+      "name": "𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "917561815983:11@s.whatsapp.net",
+          "name": "919968778724:11@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "917561815983.0": {
+      "919968778724.0": {
         "_sessions": {
           "BdVK/w0TLBJJ9OpD0bqZ56VDxrqeKEQnzuUr44DOulBE": {
             "registrationId": 939225629,
