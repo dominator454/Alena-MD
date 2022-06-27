@@ -49,3 +49,7 @@ git clone https://github.com/dominator454/Alena-MD
 cd Alena-MD
 npm start
 ```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
