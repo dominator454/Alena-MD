@@ -25,3 +25,27 @@ Alena-MD Multi Device is a automated whatsapp bot created by <a href="https://gi
 *EDIT SETTINGS*
 
 * [`ALL EDITING SETINGS`](https://github.com/dominator454/Alena-MD/blob/Jsl-Beta/settings.js)
+
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/DGXeon/CheemsBot-MD3.git
+cd CheemsBot-MD3
+
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/dominator454/Alena-MD
+cd Alena-MD
+npm start
+```
