@@ -1,7 +1,7 @@
    *BOT RUNNING SET-UP*
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/dominator454" target="_blank">DOMINATOR</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Alena_MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/dominator454" target="_blank">DOMINATOR</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 * [`FORCK  GIT`](https://github.com/dominator454/Alena-MD/fork)
