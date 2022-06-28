@@ -1,8 +1,10 @@
    *BOT RUNNING SET-UP*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 Alena-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/dominator454" target="_blank">DOMINATOR</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ```Connect With Me```
 <p align="center">
