@@ -25,6 +25,7 @@ global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
 global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
 global.footer = '© sᴇʀ ᴅᴏᴍɪɴᴀᴛᴏʀ ™'
+global.watermark = "©Alena Bot Inc ™." //ur watermark
 global.ig = 'https://wa.me/919968778724'
 global.region = 'delhi'
 global.sc = 'https://github.com/dominator454/Alena-MD'
