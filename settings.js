@@ -26,7 +26,7 @@ global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
 global.footer = '© sᴇʀ ᴅᴏᴍɪɴᴀᴛᴏʀ ™'
 global.watermark = "©Alena Bot Inc ™." //ur watermark
-global.ig = 'https://wa.me/919968778724'
+global.ig = 'https://instagram.com/dominator_151_?igshid=YmMyMTA2M2Y='
 global.region = 'delhi'
 global.sc = 'https://github.com/dominator454/Alena-MD'
 global.myweb = 'https://wa.me/919968778724'
