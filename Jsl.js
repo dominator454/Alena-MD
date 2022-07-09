@@ -3311,7 +3311,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./media/Alena.jpg')},
                             hydratedFooterText: `                            
-╭━ꪶ᪾͢٭ɪᴀᴍ...ᴀʟɪᴠᴇ..ᴠʀᴏ٭ꫂ⁩━┈ ❋ཻུ۪۪⸙
+╭━ꪶ᪾͢٭ɪᴀᴍ...ᴀʟɪᴠᴇ..ᴠʀᴏ٭ꫂ⁩U+2069━┈ ❋ཻུ۪۪⸙
 │
 │ Oᴡɴᴇʀ Nᴀᴍᴇ : ${global.ownername}
 │ Sᴘᴇᴇᴅ : 0.0059 ᴍꜱ
