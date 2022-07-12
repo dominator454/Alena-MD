@@ -3310,9 +3310,13 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./media/Alena.jpg')},
-                            hydratedFooterText: `                            
-╭━ꪶ᪾͢٭ɪᴀᴍ...ᴀʟɪᴠᴇ..ᴠʀᴏ٭ꫂ⁩U+2069━┈ ❋ཻུ۪۪⸙
-│
+                            hydratedFooterText:                         
+`┌─❖
+│「 Hi 👋 」
+└┬❖ 「 ${pushname} 」
+┌┤✑  Alena-MD With You Forever 
+││✑  🐶🖐️!!
+│└───────────────┈ ⳹
 │ Oᴡɴᴇʀ Nᴀᴍᴇ : ${global.ownername}
 │ Sᴘᴇᴇᴅ : 0.0059 ᴍꜱ
 │ Rᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}
