@@ -26,10 +26,10 @@ global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
 global.footer = '© sᴇʀ ᴅᴏᴍɪɴᴀᴛᴏʀ ™'
 global.watermark = "©Alena Bot Inc ™." //ur watermark
-global.ig = 'https://instagram.com/dominator_151_?igshid=YmMyMTA2M2Y='
+global.ig = 'https://github.com/dominator454'
 global.region = 'delhi'
 global.sc = 'https://github.com/dominator454/Alena-MD'
-global.myweb = 'https://wa.me/919968778724'
+global.myweb = 'https://youtube.com/channel/UCg4QaZEcldHdC5Y6kO1VDVg'
 global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
 global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
 global.sessionName = 'session'
